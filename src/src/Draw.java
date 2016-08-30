@@ -1,5 +1,9 @@
 package src;
 
+/**
+ * @author atomicfruitcake
+ *
+ */
 public class Draw {
 	public static void createDino() {
 		System.out.println("       __");
