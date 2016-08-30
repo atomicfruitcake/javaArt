@@ -49,4 +49,26 @@ public class Draw {
 		System.out.println("	 |_|_|          |_|__|");
 		System.out.println("	 [__)_)        (_(___]");
 	}
+	public static void createWolf(){
+		System.out.println("						   oo");
+		System.out.println("						 oOOOOo");
+		System.out.println("						oOOOOOOo");
+		System.out.println("						oOOOOOOo");
+		System.out.println("						 oOOOOo");
+		System.out.println("						   oo");
+		System.out.println("			  A");
+		System.out.println("			  AMa");
+		System.out.println("			  VMMML");
+		System.out.println("			h  VMMHMA");
+		System.out.println("			 VAMMMMMMA;,.");
+		System.out.println("			  VHHHHHHV^^^^^");
+		System.out.println("			   AMMMMM");
+		System.out.println("			  AMMMMMHHha           A");
+		System.out.println("			  AMMMMMMMMMmma        VA");
+		System.out.println("			  MMMMMMMMMMMMMMMA      AV");
+		System.out.println("			  VMMMMMMMMMMMMMMMMMA   AV");
+		System.out.println("			  MM  VMMMMMMMMMMMMMMMMMV");
+		System.out.println("			  MM     VMMMMMMMMMMMMMV");
+		System.out.println("____________AMA__AMMMMMMMMMMMMMMMV_________");
+		}
 }
