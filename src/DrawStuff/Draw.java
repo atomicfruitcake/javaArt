@@ -1,4 +1,4 @@
-package src;
+package DrawStuff;
 
 /**
  * @author atomicfruitcake
@@ -31,7 +31,6 @@ public class Draw {
 		System.out.println("  |[]===[]|   |_|_/\\_|_|    | ______ |   |");
 		System.out.println("_ ||||||||| _ | | __ | | __ ||______|| __|");
 		System.out.println("  |_______|   |_|[::]|_|    |________|   \\");
-		// Good until this point
 		System.out.println("              \\_|_||_|_/                  \\");
 		System.out.println("	        |_||_|                     \\");
 		System.out.println("               _|_||_|_                     \\");
@@ -71,4 +70,25 @@ public class Draw {
 		System.out.println("			  MM     VMMMMMMMMMMMMMV");
 		System.out.println("____________AMA__AMMMMMMMMMMMMMMMV_________");
 		}
+	
+	public static void createSnake(){
+		System.out.println("		   /^\\/^\\");
+		System.out.println("		 _|__|  O|");
+		System.out.println("	\\/     /~     \\_/ \\");
+		System.out.println("	\\____|__________/  \\");
+		System.out.println("		\\_______      \\");
+		System.out.println("		       `\\     \\                    \\");
+		System.out.println("			|     |                     \\");
+		System.out.println("		       /      /                      \\");
+		System.out.println("		      /     /                         \\\\");
+		System.out.println("		     /     / 	                       \\ \\");
+		System.out.println("	    	    /     /                     	\\  \\");
+		System.out.println("		   /     /             _----_            \\   \\");
+		System.out.println("		  /     /           _-~      ~-_         |   |");
+		System.out.println("		 (      (        _-~    _--_    ~-_     _/   |");
+		System.out.println("		  \\      ~-____-~    _-~    ~-_    ~-_-~    /");
+		System.out.println("	           ~-_           _-~          ~-_       _-~");
+		System.out.println("		     ~--______-~                ~-___-~");
+	}
 }
+
