@@ -115,5 +115,34 @@ public class Draw {
 		System.out.println("	       / /  _ _");
 		System.out.println("	      (_.-.'O'-'.");
 	}
+	
+	public static void createGoat(){
+		System.out.println("                      ______._");
+		System.out.println("                     / /    \\ \\");
+		System.out.println("                    / /     / /");
+		System.out.println("                    \\ \\");
+		System.out.println("                     \\ \\____.");
+		System.out.println("                    /    /  \\\\");
+		System.out.println("                   / @   \\  / \\,");
+		System.out.println("                  /       \\/    \\___          _______");
+		System.out.println("                  \\____/         \\  `--------'       `-,");
+		System.out.println("                    ;; |                                `__");
+		System.out.println("                      |                                 ~, \\");
+		System.out.println("                      |                                 | ; \\");
+		System.out.println("                      |                                 | ),/");
+		System.out.println("                       \\                               /");
+		System.out.println("                      / \\.                  |         |");
+		System.out.println("                     /  / \\     /            \\       /");
+		System.out.println("                    /  /   |   / `~~~~~~~~~~~'\\     /");
+		System.out.println("                   /  /    |  |               |\\   |");
+		System.out.println("                   \\  \\    |  |               | |  |");
+		System.out.println("                    \\  \\   |  |               | |  |");
+		System.out.println("                     \\  \\  |  |               | |  (");
+		System.out.println("                      \\-L  |  |               | |  |");
+		System.out.println("                       \\Z  |  |               | |  |");
+		System.out.println("                           |  |               | |  |");
+		System.out.println("                           |__|               |_|__|");
+		System.out.println("                           |/\\/               |/|/\\/");
+		}
 }
 
