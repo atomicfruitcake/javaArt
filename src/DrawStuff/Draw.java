@@ -90,5 +90,30 @@ public class Draw {
 		System.out.println("	           ~-_           _-~          ~-_       _-~");
 		System.out.println("		     ~--______-~                ~-___-~");
 	}
+	public static void createRaptor(){
+		System.out.println("      						  .--.__");
+		System.out.println("						.~ (@)  ~~~---_");
+		System.out.println("    					       {     `-_~,,,,,,)");
+		System.out.println("     				    	       {    (_  ',");
+		System.out.println("     						~    . = _',");
+		System.out.println("       						 ~-   '.  =-'");
+		System.out.println("         					  ~     :");
+		System.out.println(".                                             _,.-~     ('');");
+		System.out.println("'.                                         .-~        \\  \\ ;");
+		System.out.println(" ':-_                                _.--~            \\  \\;      _-=,.");
+		System.out.println("  ~-:-.__                       _.-~                 {  '---- _'-=,.");
+		System.out.println("   	~-._~--._             __.-~                     ~---------=,.`");
+		System.out.println("    		~~-._~~-----~~~~~~       .+++~~~~~~~~-__   /");
+		System.out.println("   		  ~-.,____           {   -     +   }  _/");
+		System.out.println("		~~-.______{_    _ -=\\ / /_.~");
+		System.out.println("			:      ~--~    // /         ..-");
+		System.out.println("			:   / /      // /         ((");
+		System.out.println("			:  / /      {   `-------,. ))");
+		System.out.println("			:   /        ''=--------. }o");
+		System.out.println("		.=._________,'  )                 ))");
+		System.out.println("		)  _________ -''                  ~~");
+		System.out.println("	       / /  _ _");
+		System.out.println("	      (_.-.'O'-'.");
+	}
 }
 
